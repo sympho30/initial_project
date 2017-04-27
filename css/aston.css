@@ -1,0 +1,9 @@
+body{
+    background: #ccc;
+}
+nav{
+    float: right;
+}
+nav li{
+     display: inline-block;
+}
